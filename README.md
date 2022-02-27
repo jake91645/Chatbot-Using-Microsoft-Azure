@@ -1,6 +1,6 @@
 ### Industry Name :- Earth
 
-## Title :- Weather Finder App
+## Title :- Weather App
 ### Problem Statement/Opportunity:- ## 
 To develop this application there was a need to get accurate weather report for different location of the earth. To overcome from this problem, I used an API (https://api.openweathermap.org/api) which provides accurate weather’s data in my project.
 ### Project Description:- 
